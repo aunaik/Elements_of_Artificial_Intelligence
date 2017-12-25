@@ -2,7 +2,7 @@
 ###################################
 # CS B551 Fall 2017, Assignment #3
 # D. Crandall
-#
+# Modified by: Akshay Naik
 # There should be no need to modify this file, although you 
 # can if you really want. Edit pos_solver.py instead!
 #
