@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # B551 Elements of AI, Prof. David Crandall
-# Authors: Ameya Angal, Akshay Naik and Praneta Paithankar
+# Authors: Akshay Naik
 # (based on skeleton code by D. Crandall, Oct 2017)
 
 # Optical Character Recognition (OCR): The goal here is to recognize text in an Image (Character by character).
